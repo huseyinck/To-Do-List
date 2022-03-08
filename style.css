@@ -1,0 +1,17 @@
+html, body, #fullheight {
+
+    
+    background: rgb(63,94,251);
+    background: -moz-linear-gradient(209deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    background: -webkit-linear-gradient(209deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    background: linear-gradient(209deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f5efb",endColorstr="#fc466b",GradientType=1);
+    height: 100%;
+  }
+
+  .check{
+
+    color: red;
+    text-decoration: line-through;
+
+  }
