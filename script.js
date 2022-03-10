@@ -20,7 +20,7 @@ function add() {
             deleteDOM[i].onclick = function () {
 
                 this.parentNode.remove();
-                console.log("sa");
+               
             }
 
         }
@@ -30,7 +30,7 @@ function add() {
             taskDOM[i].onclick = function () {
 
                 this.classList.toggle('check');
-                console.log("sa");
+               
             }
 
         }
